@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Kairo",
-  description: "Kairo",
+  description: "Kairo - AI Chatbot",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
